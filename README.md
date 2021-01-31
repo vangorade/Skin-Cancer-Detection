@@ -5,7 +5,9 @@
 
 ## Intro
 This repository contains demo for skin cancer detection webapp built using flask.
-My complete notebook of TOP12%(https://www.kaggle.com/vandangorade) solution for this(https://www.kaggle.com/c/siim-isic-melanoma-classification/overview) kaggle competition can be found here ()
+My complete notebook of TOP12%(https://www.kaggle.com/vandangorade) solution for this(https://www.kaggle.com/c/siim-isic-melanoma-classification/overview) kaggle competition can be found here
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vangorade/Skin-Cancer-Detection/blob/master/melonama_classification.ipynb)
 
 ## Setup
 First download the code by git clone this repo:
