@@ -14,7 +14,7 @@ git clone https://github.com/vangorade/Skin-Cancer-Detection
 ```
 then create conda/pip env and install dependencies using 
 ```bash
-conda activate brain-tumor-segmentation
+conda activate envname
 pip install -r requirements.txt
 ```
 Or you can create docker enviourment using provided Dockerfile 
